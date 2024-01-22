@@ -28,7 +28,22 @@ SSAFY 11기 구미 지역 myGumi 스터디 팀이 모여 CS 스터디를 진행�
 ## 스터디 일정
 - 2024.01.09 ~ Keep Going
 
-<br/>
+<br/><br/>
+
+## 👥 참여자
+> [김주현](https://github.com/garam-yang)
+> 
+> [민서령](https://github.com/mremule)
+> 
+> [박재영](https://github.com/INPiil)
+> 
+> [박태우](https://github.com/Park-taewoo)
+> 
+> [유영한](https://github.com/youngentry)
+> 
+> [조성우](https://github.com/ABizCho)
+
+<br/><br/>
 
 ## 출석관리
 
@@ -43,6 +58,6 @@ SSAFY 11기 구미 지역 myGumi 스터디 팀이 모여 CS 스터디를 진행�
 |2024.xx.xx|😊|😊|😊|😊|😊|😊|온/오프: 장소|
 |2024.01.11|😊|😊|😊|😊|😊|😊|오프라인: 투썸|
 |2024.01.18|😱:[사유(1/2)](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/8#issuecomment-1890878684)|😊|😊|😊|😊|😊|오프라인: 투썸|
-|2024.01.xx|--|--|--|--|--|--|--|
+|2024.01.24|--|--|--|--|--|--|오프라인: 투썸|
 |2024.xx.xx|--|--|--|--|--|--|--|
 
