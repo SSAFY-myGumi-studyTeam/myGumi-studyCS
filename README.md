@@ -56,8 +56,8 @@ SSAFY 11기 구미 지역 myGumi 스터디 팀이 모여 CS 스터디를 진행�
 |날짜|김주현|민서령|박재영|박태우|유영한|조성우|비고|
 |------|---|---|---|---|---|---|---|
 |2024.xx.xx|😊|😊|😊|😊|😊|😊|온/오프: 장소|
-|2024.01.11|😊|😊|😊|😊|😊|😊|오프라인: 투썸|
-|2024.01.18|😱:[사유(1/2)](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/8#issuecomment-1890878684)|😊|😊|😊|😊|😊|오프라인: 투썸|
-|2024.01.24|--|--|--|--|--|--|오프라인: 투썸|
-|2024.xx.xx|--|--|--|--|--|--|--|
+|2024.01.11|😊|😊|😊|😊|😊|😊|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/1): 투썸|
+|2024.01.18|😱:[사유(1/2)](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/8#issuecomment-1890878684)|😊|😊|😊|😊|😊|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/8): 투썸|
+|2024.01.24|😊|😊|😊|😊|😊|😊|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/10): 투썸|
+|2024.01.31|--|--|--|--|--|--|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/13): 투썸|
 
