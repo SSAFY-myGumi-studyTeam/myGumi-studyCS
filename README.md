@@ -63,5 +63,5 @@ SSAFY 11기 구미 지역 myGumi 스터디 팀이 모여 CS 스터디를 진행�
 |연기|2024.02.14|-|-|-|-|-|-|[연기 사유](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/17#issuecomment-1942889494)|
 |6회차|2024.02.21|😊|😊|😱:졸업식|😊|😊|😊|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/17): 투썸|
 |연기|2024.02.28|-|-|-|-|-|-|연기: 03.04 삼성 SW역량검정 대비|
-|7회차|2024.03.06|-|-|-|-|-|-|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/19): 투썸|
+|7회차|2024.03.06|😊|😊|😊|😱:가정사|😱[사유](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/19#issuecomment-1978885439)|😊|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/19): 투썸|
 
