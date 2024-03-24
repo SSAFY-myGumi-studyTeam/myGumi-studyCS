@@ -66,5 +66,5 @@ SSAFY 11기 구미 지역 myGumi 스터디 팀이 모여 CS 스터디를 진행�
 |7회차|2024.03.06|😊|😱:[사유]()|😊|😱:[사유]()|😱:[사유](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/19#issuecomment-1978885439)|😊|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/19): 투썸|
 |8회차|2024.03.13|😊|😊|😊|😱:[사유]()|😊|😊|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/21): 투썸|
 |9회차|2024.03.20|😊|😊|😊|😊|😊|😊|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/23): 투썸|
-|10회차|2024.03.27|😱:[사유](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/8#issuecomment-1890878684)|-|-|-|-|-|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/25): 투썸|
+|10회차|2024.03.27|😱:[사유](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/25#issuecomment-2016835698)|-|-|-|-|-|[오프라인](https://github.com/SSAFY-myGumi-studyTeam/myGumi-studyCS/issues/25): 투썸|
 
